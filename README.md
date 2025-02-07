@@ -1,6 +1,6 @@
 # About Me
 
-Hey, I’m Mike. I work in information security at the **New York State Office of Information Technology Services**, helping secure state systems and data. My interest in tech started young, watching my dad work on computers, which eventually led me to pursue a **B.S. in Cybersecurity** at the **University at Albany, SUNY**. I was involved with the **Cyber Defense Organization (CDO)** and **IEEE** during my studies.
+I’m Mike. I work in information security at the **New York State Office of Information Technology Services**, helping secure state systems and data. My interest in tech started young, watching my dad work on computers, which eventually led me to pursue a **B.S. in Cybersecurity** at the **University at Albany, SUNY**. I was involved with the **Cyber Defense Organization (CDO)** and **IEEE** during my studies.
 
 Outside of work, I enjoy:
 - 🎸 Playing guitar
