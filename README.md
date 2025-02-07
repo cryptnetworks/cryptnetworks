@@ -1,6 +1,4 @@
-# Mike DeSocio 🚀
-
-## About Me
+# About Me
 
 Hey, I’m Mike. I work in information security at the **New York State Office of Information Technology Services**, helping secure state systems and data. My interest in tech started young, watching my dad work on computers, which eventually led me to pursue a **B.S. in Cybersecurity** at the **University at Albany, SUNY**. I was involved with the **Cyber Defense Organization (CDO)** and **IEEE** during my studies.
 
@@ -16,7 +14,7 @@ Outside of work, I enjoy:
   <tr>
     <td valign="top" width="50%">
 
-### ⚡ Skills
+## ⚡ Skills
 
 **Programming & Scripting:**  
 - Python, SQL, TypeScript, Bash, PowerShell
@@ -35,7 +33,7 @@ Outside of work, I enjoy:
     </td>
     <td valign="top" width="50%">
 
-### 📌 Projects
+## 📌 Projects
 
 I document my projects on my **[Wiki](https://wiki.idiots.cc)** and share code on **[GitHub](https://github.com/mdesocio)**.
 
@@ -48,7 +46,7 @@ I document my projects on my **[Wiki](https://wiki.idiots.cc)** and share code o
   </tr>
   <tr>
 
-### 🌍 Connect with Me
+## 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mdesocio)  
 [![Website](https://img.shields.io/badge/Website-mdesocio.com-lightgrey?style=for-the-badge&logo=googlechrome)](https://mdesocio.com)
