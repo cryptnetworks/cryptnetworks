@@ -57,4 +57,4 @@ I document my projects on my **[Wiki](https://wiki.idiots.cc)** and share code o
 
 📄 More details, including my **[resume](https://mdesocio.com/assets/resume.pdf)**, are available on my [website](https://mdesocio.com).
 
-© 2025 Mike DeSocio
+© 2025 Mike D.
